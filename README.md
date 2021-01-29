@@ -1,2 +1,2 @@
-# pro-33
-this project is about plinko score
+# p5.play-boilerplate
+Boiler plate for p5.play
